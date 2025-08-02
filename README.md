@@ -46,7 +46,7 @@ Handle rate limits if you're using the free tier of NewsAPI.
 🙋‍♂️ Author
 Mujtaba Hazari
 🎓 Final Year Student | AI & Data Science Enthusiast
-🔗 LinkedIn (https://www.linkedin.com/in/mujtaba-hazari-b53a21334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 LinkedIn - https://www.linkedin.com/in/mujtaba-hazari-b53a21334/
 
 ---
 
